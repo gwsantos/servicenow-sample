@@ -17,7 +17,7 @@ variables:
   DOTENV_FILE: "$CI_PROJECT_DIR/build.env"
   DEV_ENV: "dev90628.service-now.com"
   SYSID: "acc795ef1b442110fef77596cc4bcbf3"
-  TESTSUITEID: "67fcab130b01220050192f15d6673a0c"
+  TESTSUITEID: "ab72ec6b8f033300a8616c7827bdee01"
 
 image: servicenowdevx/sncicd-gitlab-docker:latest
 
